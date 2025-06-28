@@ -51,7 +51,6 @@ In a world full of options, finding the perfect local spot can be overwhelming.
 
 - 👨‍💻 [**Rahul Zore**](https://github.com/Rahul-Zore2005)
 - 👩‍💻 [**Diya Thakkar**](https://github.com/DiyaT8)
-- 👨‍💻 [**Soham Shigvan**](https://github.com/Soham-Edith)
 
 ---
 
